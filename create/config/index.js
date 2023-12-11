@@ -18,11 +18,11 @@ module.exports = {
           },
         },
         {
-          name: "react-core-form-admin",
+          name: "pro",
           value: {
             url: "https://github.com/yunliang-ding/react-core-form-admin.git",
             gitName: "react-core-form-admin",
-            val: "全栈开发项目",
+            val: "全栈开发模版",
           },
         },
       ],

@@ -1,12 +1,12 @@
 {
   "private": false,
   "name": "create-lyr-cli",
-  "version": "0.0.1",
+  "version": "0.0.10",
   "author": "yunliang-ding",
   "main": "./create/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunliang-ding/create-yld-cli"
+    "url": "https://github.com/yunliang-ding/create-lyr-cli"
   },
   "bin": {
     "create-lyr-cli": "./create/index.js"
