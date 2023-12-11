@@ -1,0 +1,21 @@
+{
+  "private": false,
+  "name": "create-lyr-cli",
+  "version": "0.0.1",
+  "author": "yunliang-ding",
+  "main": "./create/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunliang-ding/create-yld-cli"
+  },
+  "bin": {
+    "create-lyr-cli": "./create/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "inquirer": "^7.1.0"
+  },
+  
+  "license": "MIT"
+}
