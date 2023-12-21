@@ -14,15 +14,15 @@ module.exports = {
           value: {
             url: "https://github.com/yunliang-ding/lyr-template-base.git",
             gitName: "lyr-template-base",
-            val: "基础版本",
+            val: "React基础版本",
           },
         },
         {
           name: "pro",
           value: {
-            url: "https://github.com/yunliang-ding/react-core-form-admin.git",
-            gitName: "react-core-form-admin",
-            val: "全栈开发模版",
+            url: "https://github.com/yunliang-ding/lyr-template-pro.git",
+            gitName: "lyr-template-base",
+            val: "React全栈模版",
           },
         },
       ],

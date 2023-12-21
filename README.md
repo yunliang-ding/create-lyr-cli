@@ -1,2 +1,5 @@
 # create-lyr-cli
-创建项目
+
+```shell
+yarn create lyr-cli new my-app
+```
