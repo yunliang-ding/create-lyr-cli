@@ -10,11 +10,19 @@ module.exports = {
       name: "type",
       choices: [
         {
-          name: "lyr-react",
+          name: "lyr-react-web",
           value: {
-            url: "https://github.com/yunliang-ding/lyr-react-template.git",
-            gitName: "lyr-react-template",
+            url: "https://github.com/yunliang-ding/lyr-react-web.git",
+            gitName: "lyr-react-web",
             val: "全栈开发模版",
+          },
+        },
+        {
+          name: "lyr-react-docs",
+          value: {
+            url: "https://github.com/yunliang-ding/lyr-react-docs.git",
+            gitName: "lyr-react-docs",
+            val: "组件库开发模版",
           },
         },
       ],

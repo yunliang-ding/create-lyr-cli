@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "create-lyr-cli",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "author": "yunliang-ding",
   "main": "./create/index.js",
   "repository": {
