@@ -1,21 +1,25 @@
 {
   "private": false,
   "name": "create-lyr-cli",
-  "version": "0.0.14",
+  "version": "0.0.17",
   "author": "yunliang-ding",
   "main": "./create/index.js",
+  "description": "快速安装项目",
   "repository": {
     "type": "git",
     "url": "https://github.com/yunliang-ding/create-lyr-cli"
   },
   "bin": {
-    "create-lyr-cli": "./create/index.js"
+    "create-lyr-cli": "cli.js"
   },
   "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^5.0.0",
     "inquirer": "^7.1.0"
   },
-  
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }

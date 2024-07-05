@@ -14,12 +14,6 @@ node_modules/
 # misc
 .DS_Store
 
-# umi
-.umi
-.umi-production
-.umi-test
-.env.local
-
 # ide
 /.vscode
 /.idea
