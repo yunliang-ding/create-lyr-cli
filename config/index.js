@@ -2,7 +2,7 @@
   @dest: 使用配置文件
  */
 module.exports = {
-  npmUrl: "https://registry.npmjs.org/shc-cli/latest",
+  npmUrl: "https://registry.npmjs.org/create-lyr-cli/latest",
   projectList: [
     {
       type: "list",
@@ -10,18 +10,18 @@ module.exports = {
       name: "type",
       choices: [
         {
-          name: "lyr-react-web",
+          name: "react-temp-web",
           value: {
-            url: "https://github.com/yunliang-ding/lyr-react-web.git",
-            gitName: "lyr-react-web",
+            url: "https://github.com/yunliang-ding/react-temp-web.git",
+            gitName: "react-temp-web",
             val: "全栈开发模版",
           },
         },
         {
-          name: "lyr-react-docs",
+          name: "react-temp-docs",
           value: {
-            url: "https://github.com/yunliang-ding/lyr-react-docs.git",
-            gitName: "lyr-react-docs",
+            url: "https://github.com/yunliang-ding/react-temp-docs.git",
+            gitName: "react-temp-docs",
             val: "组件库开发模版",
           },
         },

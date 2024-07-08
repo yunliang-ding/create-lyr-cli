@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "create-lyr-cli",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "author": "yunliang-ding",
   "main": "./create/index.js",
   "description": "快速安装项目",
